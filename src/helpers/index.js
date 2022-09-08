@@ -26,6 +26,8 @@ img {
   <img src="https://i.pinimg.com/564x/37/e0/27/37e027248ba3ff3e0d8d2f386a8ca812.jpg" alt="Cinque Terre" width="1000" height="300">
   <img src="https://i.pinimg.com/564x/37/e0/27/37e027248ba3ff3e0d8d2f386a8ca812.jpg" alt="Cinque Terre" width="1000" height="300">
   <img src="https://i.pinimg.com/564x/37/e0/27/37e027248ba3ff3e0d8d2f386a8ca812.jpg" alt="Cinque Terre" width="1000" height="300">
+  <img src="https://i.pinimg.com/564x/37/e0/27/37e027248ba3ff3e0d8d2f386a8ca812.jpg" alt="Cinque Terre" width="1000" height="300">
+  <img src="https://i.pinimg.com/564x/37/e0/27/37e027248ba3ff3e0d8d2f386a8ca812.jpg" alt="Cinque Terre" width="1000" height="300">
 </div>
 </center>
 </body>

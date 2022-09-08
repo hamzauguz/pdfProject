@@ -12,6 +12,7 @@ const App = () => {
         html: htmlPlace,
         fileName: 'Kroppa',
         directory: 'Download',
+        base64: true,
       };
       let file = await RNHTMLtoPDF.convert(options);
       console.log(file.filePath);
